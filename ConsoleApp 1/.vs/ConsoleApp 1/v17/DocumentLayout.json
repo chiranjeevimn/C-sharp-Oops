@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Cirruslabs\\C#\\ConsoleApp 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB463D6-C466-4A90-8890-057B8F106805}|ConsoleApp 1\\ConsoleApp 1.csproj|e:\\cirruslabs\\c#\\consoleapp 1\\consoleapp 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDB463D6-C466-4A90-8890-057B8F106805}|ConsoleApp 1\\ConsoleApp 1.csproj|solutionrelative:consoleapp 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB463D6-C466-4A90-8890-057B8F106805}|ConsoleApp 1\\ConsoleApp 1.csproj|e:\\cirruslabs\\c#\\consoleapp 1\\consoleapp 1\\consoleapp 1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FDB463D6-C466-4A90-8890-057B8F106805}|ConsoleApp 1\\ConsoleApp 1.csproj|solutionrelative:consoleapp 1\\consoleapp 1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConsoleApp 1",
+              "DocumentMoniker": "E:\\Cirruslabs\\C#\\ConsoleApp 1\\ConsoleApp 1\\ConsoleApp 1.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp 1\\ConsoleApp 1.csproj",
+              "ToolTip": "E:\\Cirruslabs\\C#\\ConsoleApp 1\\ConsoleApp 1\\ConsoleApp 1.csproj",
+              "RelativeToolTip": "ConsoleApp 1\\ConsoleApp 1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-11T04:18:41.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Cirruslabs\\C#\\ConsoleApp 1\\ConsoleApp 1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp 1\\Program.cs",
+              "ToolTip": "E:\\Cirruslabs\\C#\\ConsoleApp 1\\ConsoleApp 1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp 1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T04:17:16.778Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

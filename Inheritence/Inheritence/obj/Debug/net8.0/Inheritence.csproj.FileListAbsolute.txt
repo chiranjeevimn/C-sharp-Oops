@@ -1,0 +1,14 @@
+E:\Cirruslabs\C#\Inheritence\Inheritence\bin\Debug\net8.0\Inheritence.exe
+E:\Cirruslabs\C#\Inheritence\Inheritence\bin\Debug\net8.0\Inheritence.deps.json
+E:\Cirruslabs\C#\Inheritence\Inheritence\bin\Debug\net8.0\Inheritence.runtimeconfig.json
+E:\Cirruslabs\C#\Inheritence\Inheritence\bin\Debug\net8.0\Inheritence.dll
+E:\Cirruslabs\C#\Inheritence\Inheritence\bin\Debug\net8.0\Inheritence.pdb
+E:\Cirruslabs\C#\Inheritence\Inheritence\obj\Debug\net8.0\Inheritence.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cirruslabs\C#\Inheritence\Inheritence\obj\Debug\net8.0\Inheritence.AssemblyInfoInputs.cache
+E:\Cirruslabs\C#\Inheritence\Inheritence\obj\Debug\net8.0\Inheritence.AssemblyInfo.cs
+E:\Cirruslabs\C#\Inheritence\Inheritence\obj\Debug\net8.0\Inheritence.csproj.CoreCompileInputs.cache
+E:\Cirruslabs\C#\Inheritence\Inheritence\obj\Debug\net8.0\Inheritence.dll
+E:\Cirruslabs\C#\Inheritence\Inheritence\obj\Debug\net8.0\refint\Inheritence.dll
+E:\Cirruslabs\C#\Inheritence\Inheritence\obj\Debug\net8.0\Inheritence.pdb
+E:\Cirruslabs\C#\Inheritence\Inheritence\obj\Debug\net8.0\Inheritence.genruntimeconfig.cache
+E:\Cirruslabs\C#\Inheritence\Inheritence\obj\Debug\net8.0\ref\Inheritence.dll

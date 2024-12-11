@@ -1,0 +1,14 @@
+E:\Cirruslabs\C#\Abstraction\Abstraction\bin\Debug\net8.0\Abstraction.exe
+E:\Cirruslabs\C#\Abstraction\Abstraction\bin\Debug\net8.0\Abstraction.deps.json
+E:\Cirruslabs\C#\Abstraction\Abstraction\bin\Debug\net8.0\Abstraction.runtimeconfig.json
+E:\Cirruslabs\C#\Abstraction\Abstraction\bin\Debug\net8.0\Abstraction.dll
+E:\Cirruslabs\C#\Abstraction\Abstraction\bin\Debug\net8.0\Abstraction.pdb
+E:\Cirruslabs\C#\Abstraction\Abstraction\obj\Debug\net8.0\Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cirruslabs\C#\Abstraction\Abstraction\obj\Debug\net8.0\Abstraction.AssemblyInfoInputs.cache
+E:\Cirruslabs\C#\Abstraction\Abstraction\obj\Debug\net8.0\Abstraction.AssemblyInfo.cs
+E:\Cirruslabs\C#\Abstraction\Abstraction\obj\Debug\net8.0\Abstraction.csproj.CoreCompileInputs.cache
+E:\Cirruslabs\C#\Abstraction\Abstraction\obj\Debug\net8.0\Abstraction.dll
+E:\Cirruslabs\C#\Abstraction\Abstraction\obj\Debug\net8.0\refint\Abstraction.dll
+E:\Cirruslabs\C#\Abstraction\Abstraction\obj\Debug\net8.0\Abstraction.pdb
+E:\Cirruslabs\C#\Abstraction\Abstraction\obj\Debug\net8.0\Abstraction.genruntimeconfig.cache
+E:\Cirruslabs\C#\Abstraction\Abstraction\obj\Debug\net8.0\ref\Abstraction.dll
