@@ -1,0 +1,14 @@
+E:\Cirruslabs\C#\OCP\OCP\bin\Debug\net8.0\OCP.exe
+E:\Cirruslabs\C#\OCP\OCP\bin\Debug\net8.0\OCP.deps.json
+E:\Cirruslabs\C#\OCP\OCP\bin\Debug\net8.0\OCP.runtimeconfig.json
+E:\Cirruslabs\C#\OCP\OCP\bin\Debug\net8.0\OCP.dll
+E:\Cirruslabs\C#\OCP\OCP\bin\Debug\net8.0\OCP.pdb
+E:\Cirruslabs\C#\OCP\OCP\obj\Debug\net8.0\OCP.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cirruslabs\C#\OCP\OCP\obj\Debug\net8.0\OCP.AssemblyInfoInputs.cache
+E:\Cirruslabs\C#\OCP\OCP\obj\Debug\net8.0\OCP.AssemblyInfo.cs
+E:\Cirruslabs\C#\OCP\OCP\obj\Debug\net8.0\OCP.csproj.CoreCompileInputs.cache
+E:\Cirruslabs\C#\OCP\OCP\obj\Debug\net8.0\OCP.dll
+E:\Cirruslabs\C#\OCP\OCP\obj\Debug\net8.0\refint\OCP.dll
+E:\Cirruslabs\C#\OCP\OCP\obj\Debug\net8.0\OCP.pdb
+E:\Cirruslabs\C#\OCP\OCP\obj\Debug\net8.0\OCP.genruntimeconfig.cache
+E:\Cirruslabs\C#\OCP\OCP\obj\Debug\net8.0\ref\OCP.dll

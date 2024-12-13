@@ -1,0 +1,14 @@
+E:\Cirruslabs\C#\ISP\ISP\bin\Debug\net8.0\ISP.exe
+E:\Cirruslabs\C#\ISP\ISP\bin\Debug\net8.0\ISP.deps.json
+E:\Cirruslabs\C#\ISP\ISP\bin\Debug\net8.0\ISP.runtimeconfig.json
+E:\Cirruslabs\C#\ISP\ISP\bin\Debug\net8.0\ISP.dll
+E:\Cirruslabs\C#\ISP\ISP\bin\Debug\net8.0\ISP.pdb
+E:\Cirruslabs\C#\ISP\ISP\obj\Debug\net8.0\ISP.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cirruslabs\C#\ISP\ISP\obj\Debug\net8.0\ISP.AssemblyInfoInputs.cache
+E:\Cirruslabs\C#\ISP\ISP\obj\Debug\net8.0\ISP.AssemblyInfo.cs
+E:\Cirruslabs\C#\ISP\ISP\obj\Debug\net8.0\ISP.csproj.CoreCompileInputs.cache
+E:\Cirruslabs\C#\ISP\ISP\obj\Debug\net8.0\ISP.dll
+E:\Cirruslabs\C#\ISP\ISP\obj\Debug\net8.0\refint\ISP.dll
+E:\Cirruslabs\C#\ISP\ISP\obj\Debug\net8.0\ISP.pdb
+E:\Cirruslabs\C#\ISP\ISP\obj\Debug\net8.0\ISP.genruntimeconfig.cache
+E:\Cirruslabs\C#\ISP\ISP\obj\Debug\net8.0\ref\ISP.dll

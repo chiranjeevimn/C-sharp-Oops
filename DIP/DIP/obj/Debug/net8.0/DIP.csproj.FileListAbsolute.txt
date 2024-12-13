@@ -1,0 +1,14 @@
+E:\Cirruslabs\C#\DIP\DIP\bin\Debug\net8.0\DIP.exe
+E:\Cirruslabs\C#\DIP\DIP\bin\Debug\net8.0\DIP.deps.json
+E:\Cirruslabs\C#\DIP\DIP\bin\Debug\net8.0\DIP.runtimeconfig.json
+E:\Cirruslabs\C#\DIP\DIP\bin\Debug\net8.0\DIP.dll
+E:\Cirruslabs\C#\DIP\DIP\bin\Debug\net8.0\DIP.pdb
+E:\Cirruslabs\C#\DIP\DIP\obj\Debug\net8.0\DIP.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cirruslabs\C#\DIP\DIP\obj\Debug\net8.0\DIP.AssemblyInfoInputs.cache
+E:\Cirruslabs\C#\DIP\DIP\obj\Debug\net8.0\DIP.AssemblyInfo.cs
+E:\Cirruslabs\C#\DIP\DIP\obj\Debug\net8.0\DIP.csproj.CoreCompileInputs.cache
+E:\Cirruslabs\C#\DIP\DIP\obj\Debug\net8.0\DIP.dll
+E:\Cirruslabs\C#\DIP\DIP\obj\Debug\net8.0\refint\DIP.dll
+E:\Cirruslabs\C#\DIP\DIP\obj\Debug\net8.0\DIP.pdb
+E:\Cirruslabs\C#\DIP\DIP\obj\Debug\net8.0\DIP.genruntimeconfig.cache
+E:\Cirruslabs\C#\DIP\DIP\obj\Debug\net8.0\ref\DIP.dll
